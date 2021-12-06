@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_all_menu_items.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/activity_cismenu_adapter.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/activity_cismenu_view_holder.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/activity_eatrium.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_kitchen.xml" value="0.18553674024913838" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_order.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/activity_order2.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/content_order.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/menu_row_view.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/layout/menuitem_view.xml" value="0.245018115942029" />
+        <entry key="app/src/main/res/menu/activity_login.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
